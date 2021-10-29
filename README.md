@@ -1,7 +1,6 @@
-Greetings,
+<h1 align="center">Zero Day</h1>
+In this repository you will find the projects related to zero day that I did in Holberton.
 
-This is the README file for my first repository of my first task of my first School project.
-
-Changes made to complete the git project.
-
-# zero_day
+## Projects
+* [Vagrant](https://github.com/jhonaRiver/zero_day/tree/main/0x00-vagrant)
+* [0x03. Git](https://github.com/jhonaRiver/zero_day/tree/main/0x03-git)
